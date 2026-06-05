@@ -262,7 +262,6 @@ from sklearn.impute import SimpleImputer
 import matplotlib.pyplot as plt
 import seaborn as sns
 ```
-
 ---
 
 # 🎯 Key Learning Outcomes
